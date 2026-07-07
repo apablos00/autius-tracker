@@ -1,0 +1,7 @@
+selenium
+undetected-chromedriver
+discordwebhook
+emoji
+unidecode
+requests
+python-dotenv
